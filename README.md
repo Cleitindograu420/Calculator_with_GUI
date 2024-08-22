@@ -1,0 +1,2 @@
+This is my first Project working with a GUI in Python, i used customtkinter for the GUI, the code is very simple
+it was mainly for testing and experimenting with the tool, if you heave any tips i cold use plz coment on it.
